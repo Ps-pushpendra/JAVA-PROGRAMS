@@ -1,3 +1,5 @@
+// simple java program to add two number by taking input form user.
+
 import java.util.Scanner;
 
 class addition{
