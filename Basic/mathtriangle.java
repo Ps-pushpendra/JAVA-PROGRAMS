@@ -37,14 +37,8 @@ atriangle ob = new atriangle();
 ob.readdata();
 ob.area();
 
-
 }
 }
-
-
-
-
-
 
 
 
