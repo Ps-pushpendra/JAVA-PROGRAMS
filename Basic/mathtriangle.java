@@ -1,6 +1,6 @@
 import java.util.*;
 
-class atriangle {
+class mathtriangle {
 
 float b,h,l;
 double area;
