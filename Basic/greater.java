@@ -1,6 +1,10 @@
+
+// java program to find the greatest of two.
+
+
 import java.util.*;
 
-class conditions {
+class greater {
 
 public static void main( String[] args ){
 
