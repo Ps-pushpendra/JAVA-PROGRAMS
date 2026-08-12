@@ -1,6 +1,6 @@
 import java.util.*;
 
-class box {
+class boxmeasure {
 int l,b,h;
 
 void readdata(){
