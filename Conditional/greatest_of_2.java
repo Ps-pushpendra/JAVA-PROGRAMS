@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class conditions {
+class greatest_of_2 {
 
 public static void main( String[] args ){
 
