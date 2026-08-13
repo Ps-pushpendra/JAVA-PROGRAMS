@@ -1,3 +1,5 @@
+// java program to find the greatest of two number.
+
 import java.util.*;
 
 class conditions {
