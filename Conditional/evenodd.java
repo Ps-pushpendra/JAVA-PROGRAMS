@@ -2,9 +2,13 @@
 
 import java.util.Scanner;
 
-class evenodd{
+class evenodd 
+
+{
   
-public static void main(String args[]){
+public static void main(String args[])
+  
+{
   
 Scanner ip = new Scanner(System.in);
 int n;
@@ -17,6 +21,7 @@ System.out.println("Even number..");
   
 else
 System.out.println("Odd number..");
+  
 }
 }
 
