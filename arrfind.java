@@ -1,3 +1,5 @@
+// java program to find the element present in the array and displaying its index.
+
 import java.util.*;
 
 class arrfind {
